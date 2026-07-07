@@ -3,7 +3,7 @@
 Este projeto é um convite digital interativo desenvolvido com HTML, CSS e JavaScript, hospedado via GitHub Pages.
 
 🔗 Acesse o convite:  
-https://barbosamuel.github.io/Aniversario-1ano-Olivia/
+https://barbosamuel.github.io/1ano-Olivia/
 
 ---
 
